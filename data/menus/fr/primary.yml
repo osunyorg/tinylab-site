@@ -17,4 +17,8 @@ items:
   target: "/organisations/"
   kind: page
   children: []
+- title: L'association Tiny Lab
+  target: "/lassociation-tiny-lab/"
+  kind: page
+  children: []
 
