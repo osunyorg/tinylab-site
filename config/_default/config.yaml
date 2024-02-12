@@ -7,3 +7,7 @@ params:
     position: hero
   search:
     active: false  
+
+  posts:
+    index:
+      layout: grid
